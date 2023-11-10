@@ -1,0 +1,29 @@
+
+.carousel {
+    height: 80vh; /* Sesuaikan tinggi slider sesuai kebutuhan (70% dari tinggi viewport) */
+  }
+  .carousel-inner {
+    height: 100%;
+  }
+  .carousel-item {
+    height: 100%;
+  }
+  .carousel-item img {
+    object-fit: cover; /* Agar gambar penuh layar tanpa distorsi */
+    height: 100%;
+  }
+  .navbar-brand {
+    display: flex;
+    align-items: center;
+  }
+  .navbar-brand img {
+    max-height: 80px; /* Sesuaikan tinggi sesuai kebutuhan */
+    margin-right: 5px; /* Jarak antara logo dan teks */
+  }
+  .navbar-brand .brand-info {
+    display: flex;
+    flex-direction: column;
+  }
+  .navbar-brand .brand-info span {
+    font-size: 16px; /* Sesuaikan ukuran teks sesuai kebutuhan */
+  }
