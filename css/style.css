@@ -448,7 +448,8 @@ h6,
 
 .testimonial-carousel .owl-dot.active {
     width: 30px;
-    background: var(--primary);
+    background: #ffffff7b !important;
+
 }
 
 .testimonial-carousel .owl-item.center {
