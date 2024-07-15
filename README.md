@@ -1,10 +1,10 @@
-# Nama : Anisa Maarani
+# Nama : Anisa Maharani
 # NIM  434221034
-# Mata Kulia : Desain UI/UX
+# Mata Kuliah : Desain UI/UX
 # Tema : Pendidikan
 # Semester : 3
 
-# Proyek UAS Redesain / Membuat Sistem Informasi Berdasarkan Tema
+# Proyek UAS Redesain / Membuat Sistem Informasi Berdasarkan Tema Yang Ditentukan
 # Jobdesk : 
 - Halaman Home
 - Halaman Sejarah
